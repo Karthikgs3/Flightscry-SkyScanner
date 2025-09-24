@@ -68,6 +68,7 @@ git clone https://github.com/Karthikgs3/Flightscry-SkyScanner.git
 ```
 👤 Author
 
-Karthik G Sharma
-Skyscanner Forage Internship Project
+- Karthik G Sharma
+- Skyscanner Forage Internship Project
+
 
