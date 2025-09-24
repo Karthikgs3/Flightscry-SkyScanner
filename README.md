@@ -65,8 +65,9 @@ The UI is **fully responsive** and demonstrates how Backpack components can be u
 1. Download or clone the repository:  
 ```bash
 git clone https://github.com/Karthikgs3/Flightscry-SkyScanner.git
-
+```
 👤 Author
 
 Karthik G Sharma
 Skyscanner Forage Internship Project
+
